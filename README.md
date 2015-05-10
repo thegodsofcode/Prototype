@@ -1,2 +1,0 @@
-# Prototype
-Of Wall-e
